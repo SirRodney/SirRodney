@@ -5,17 +5,8 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <div>
-<img src="https://github-readme-stats-git-main-sirrodney.vercel.app/api?username=SirRodney&amp;show_icons=true&amp;locale=en&amp;count_private=true&theme=dark" alt="sirrodney" align="left" width="50%" />
-<img src="https://github-readme-stats-git-main-sirrodney.vercel.app/api/top-langs?username=sirrodney&layout=compact&langs_count=8&size_weight=1.5&count_weight=1.5&theme=dark" align="right" width="33%" />
+<img src="https://github-readme-stats-git-main-sirrodney.vercel.app/api?username=SirRodney&amp;show_icons=true&amp;locale=en&amp;count_private=true&theme=dark" alt="sirrodney" align="left" />
+<img src="https://github-readme-stats-git-main-sirrodney.vercel.app/api/top-langs?username=sirrodney&layout=compact&langs_count=8&size_weight=1.5&count_weight=1.5&theme=dark" />
 </div>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sirrodney&amp;&theme=dark" width="50%" alt="sirrodney" align="center" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sirrodney&amp;&theme=dark" alt="sirrodney" align="center" /></p>
