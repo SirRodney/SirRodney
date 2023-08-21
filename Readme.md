@@ -18,4 +18,4 @@
 <br>
 <br>
 <br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sirrodney&amp;&theme=dark" alt="sirrodney" align="center" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sirrodney&amp;&theme=dark" width="50%" alt="sirrodney" align="center" /></p>
