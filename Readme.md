@@ -5,8 +5,8 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <div>
-<img src="https://github-readme-stats-git-main-sirrodney.vercel.app/api?username=SirRodney&amp;show_icons=true&amp;locale=en&amp;count_private=true&theme=dark" alt="sirrodney" align="left" />
-<img src="https://github-readme-stats-git-main-sirrodney.vercel.app/api/top-langs?username=sirrodney&layout=compact&langs_count=8&size_weight=1.5&count_weight=1.5&theme=dark" />
+<img src="https://github-readme-stats-git-main-sirrodney.vercel.app/api?username=SirRodney&amp;show_icons=true&amp;locale=en&amp;count_private=true&theme=highcontrast" alt="sirrodney" align="left" />
+<img src="https://github-readme-stats-git-main-sirrodney.vercel.app/api/top-langs?username=sirrodney&layout=compact&langs_count=8&size_weight=1.5&count_weight=1.5&theme=highcontrast" />
 </div>
 <br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=SirRodney&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="sirrodney" align="center" /></p>
