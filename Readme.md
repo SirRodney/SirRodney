@@ -9,4 +9,4 @@
 <img src="https://github-readme-stats-git-main-sirrodney.vercel.app/api/top-langs?username=sirrodney&layout=compact&langs_count=8&size_weight=1.5&count_weight=1.5&theme=dark" />
 </div>
 <br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sirrodney&amp;&theme=dark" alt="sirrodney" align="center" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=SirRodney&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="sirrodney" align="center" /></p>
